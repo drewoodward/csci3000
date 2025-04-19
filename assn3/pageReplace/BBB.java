@@ -1,4 +1,4 @@
-package pageReplace;
+package assn3.pageReplace;
 /*
 This class defines the abstract method "insert()" that was declared in the ReplacementAlgorithm.
 It first creates an object of inner class BBBList (i.e., frameList), and then defines insert() which invokes

@@ -1,4 +1,4 @@
-package pageReplace;
+package assn3.pageReplace;
 
 /* 
 This is an abstract class that initializes the instance variable

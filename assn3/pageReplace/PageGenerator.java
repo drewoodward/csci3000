@@ -1,4 +1,4 @@
-package pageReplace;
+package assn3.pageReplace;
 /*
 This class sets the size and range for generating a random reference string
 and then genrates the random reference string and stores it in the instance

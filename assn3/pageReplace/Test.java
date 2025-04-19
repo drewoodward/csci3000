@@ -1,4 +1,4 @@
-package pageReplace;
+package assn3.pageReplace;
 /*
 This is the driver class with method "main()". It first checks the format 
 of the command line to make sure two parameters are provided, otherwise it 
